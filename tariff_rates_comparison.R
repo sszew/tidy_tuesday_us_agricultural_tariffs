@@ -4,7 +4,7 @@
 # Created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
 
 # NOTE: The data preparation steps were created using similar code to the "Code for the plot"
-# section in the Tidy Tuesday GitHub page for April 29, 2026.
+# section in the Tidy Tuesday GitHub page for April 28, 2026.
 
 
 library(conflicted)
