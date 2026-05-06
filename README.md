@@ -2,6 +2,11 @@
 
 **The file tariff_rates_comparison.R contains the R script to generate the NAFTA/USMCA tariff rate plots referred to in the LinkedIn post (text of post printed below): https://www.linkedin.com/feed/update/urn:li:ugcPost:7457677916102115328/**
 
+# The R script was created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
+
+# NOTE: The data preparation steps were created using similar code to the "Code for the plot"
+# section in the Tidy Tuesday GitHub page for April 28, 2026: https://github.com/rfordatascience/tidytuesday/tree/main/data/2026/2026-04-28
+
 ----------
 
 When working with data, “zero” doesn’t always equal “zero.” 
