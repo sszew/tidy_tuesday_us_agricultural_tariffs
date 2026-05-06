@@ -2,12 +2,11 @@
 
 **The file tariff_rates_comparison.R contains the R script to generate the NAFTA/USMCA tariff rate plots referred to in the LinkedIn post (text of post printed below): https://www.linkedin.com/feed/update/urn:li:ugcPost:7457677916102115328/**
 
+----------
 
 When working with data, “zero” doesn’t always equal “zero.” 
 
 Sound strange? I’ll explain. 
-
-----------
 
 For this #TidyTuesday, we are looking at U.S. tariff data on agricultural products under the NAFTA and USMCA trade agreements from 1997-2024.
 
@@ -21,6 +20,7 @@ In other words, not all zeros are equal. The pre-1997 zeros are likely artifacts
 
 Examples like this can reminder us that data science is only useful if it can connect data to real world events. And sometimes, this means that we need to question the data itself. 
 
+----------
 
 For more information on NAFTA and USMCA:
 - https://www.cbp.gov/trade/nafta/guide-customs-procedures/description-nafta
