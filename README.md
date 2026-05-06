@@ -22,12 +22,15 @@ Examples like this can reminder us that data science is only useful if it can co
 
 ----------
 
+
+<img width="800" height="800" alt="mexico_tariffs" src="https://github.com/user-attachments/assets/58e6c5cc-9004-4a27-9d5b-95bb94f40ae9" />
+
+<img width="800" height="800" alt="canada_tariffs" src="https://github.com/user-attachments/assets/336a2d14-7c87-43af-90d6-90ef90e08e98" />
+
+----------
+
 For more information on NAFTA and USMCA:
 - https://www.cbp.gov/trade/nafta/guide-customs-procedures/description-nafta
 - https://www.investopedia.com/terms/n/nafta.asp
 - https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement
 - https://www.investopedia.com/usmca-4582387
-
-
-
-<img width="900" height="900" alt="canada_tariffs" src="https://github.com/user-attachments/assets/336a2d14-7c87-43af-90d6-90ef90e08e98" />
