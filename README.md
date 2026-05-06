@@ -1,4 +1,3 @@
-<img width="1255" height="1254" alt="canada_tariffs" src="https://github.com/user-attachments/assets/336a2d14-7c87-43af-90d6-90ef90e08e98" />
 # Tidy Tuesday: US Agricultural Tariffs.
 
 **The file tariff_rates_comparison.R contains the R script to generate the NAFTA/USMCA tariff rate plots referred to in the LinkedIn post (text of post printed below): https://www.linkedin.com/feed/update/urn:li:ugcPost:7457677916102115328/**
@@ -28,3 +27,7 @@ For more information on NAFTA and USMCA:
 - https://www.investopedia.com/terms/n/nafta.asp
 - https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement
 - https://www.investopedia.com/usmca-4582387
+
+
+
+<img width="900" height="900" alt="canada_tariffs" src="https://github.com/user-attachments/assets/336a2d14-7c87-43af-90d6-90ef90e08e98" />
